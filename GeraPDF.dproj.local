@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/04/15 16:07:09.729,=C:\Users\alessandro.martini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/15 16:08:15.293,C:\work5\GeraPDF\Unit1.fmx=C:\Users\alessandro.martini\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/04/15 16:08:15.293,C:\work5\GeraPDF\Unit1.pas=C:\Users\alessandro.martini\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/15 16:08:20.933,C:\work5\GeraPDF\GeraPDF.dproj=C:\Users\alessandro.martini\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/04/15 16:12:30.599,C:\work5\GeraPDF\GeradorPDF.fmx=C:\work5\GeraPDF\Unit1.fmx</Transaction>
+    <Transaction>2018/04/15 16:12:30.599,C:\work5\GeraPDF\GeradorPDF.pas=C:\work5\GeraPDF\Unit1.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="BY900F9FD4"/>
+  </ActiveMobileDevice>
+</BorlandProject>
